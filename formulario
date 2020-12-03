@@ -1,0 +1,13 @@
+<html>
+    <title> Formulário</title>
+    <form method="get" action="envio_dados.php"><br>
+        Nome: <br>  <input type="text" name="Nome"><br>
+        Sobrenome: <br> <input type="text" name="Sobrenome" ><br>
+        E-mail: <br> <input type="email" name="e-mail"><br>
+    Data de Nascimento:<br> <input type="date" name="bdaytime"><br>  
+    Telefone:<br>  <input type="tel" name="usertel" ><br>
+    Endereço: <br> <input type="text" name="Endereco" ><br><br>
+    <input type="submit" name="enviar" value="Enviar">  
+    
+    </form>
+</html>
